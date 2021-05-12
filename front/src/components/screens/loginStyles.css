@@ -1,0 +1,59 @@
+* {
+    padding:0;
+    margin:0;
+}
+
+body {
+  
+    background:#192C38;
+}
+
+#login{
+ 
+    height:600px;
+    width:100%;
+}
+
+
+.main {
+    position:relative;
+    margin-top:100px;
+ 
+    width: 100%;
+    padding: 10px;
+}
+
+
+.navbar-expand-lg{
+    background-color:#0F212E;
+
+}
+nav .container  a {
+    color:white;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #192C38;
+    color: white;
+    text-align: center;
+}
+
+#wallpaper{
+    background-image: url(./images/dice.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h2 {
+    color:silver
+}
+.centered{
+    margin-top:60px;
+    color:#ccc;
+    background-color:#1A2C38;
+}
+
+
