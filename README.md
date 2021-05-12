@@ -1,4 +1,4 @@
 # Dice-Mern
 
-login endpoint /login
+login endpoint = /login  #####
 register endpoint = /register
